@@ -1,6 +1,3 @@
-//Jared Lewis
-//jlewis9@umbc.edu
-
 import java.util.Scanner; // needed for user input
 import java.lang.Math; // needed for random number generator
 import java.lang.StringBuilder; // needed for string reversal
